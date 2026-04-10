@@ -1,4 +1,4 @@
-# 🛤️ My Future Path — Career Guidance Assistant Bot
+# 🛤️ My Future Path - Career Guidance Assistant Bot
 
 > Hello! **My Future Path** will help you find an interesting profession or a direction for your development. You can use it anytime.
 
